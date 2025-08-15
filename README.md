@@ -1,6 +1,6 @@
 # Computer-Networks-Lab-Experiments
 Computer Networks Lab Experiments
-# CN Lab – First Two Experiments
+
 
 This repo has my work for the Computer Networks lab experiments using Cisco Packet Tracer.  
 I’ve added the `.pkt` files and screenshots of the results.
